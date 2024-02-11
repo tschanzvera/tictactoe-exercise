@@ -8,6 +8,10 @@ This was a little project that I had in my MITxPRO course. The exercise was to m
 
 If you have any questions about this exercise contact me at www.linkedin.com/in/vera-tschanz-500258a2
 
+## Roadmap of future improvements 
+
+I would like to change the styling of the game, mostly the color. I would also like to refractor it so I put all the main components in a seperate file. To make the game a little bit more intresting I would add a time limit for each player with a count down of 3 seconds.
+
 ## License
 
 MIT license
