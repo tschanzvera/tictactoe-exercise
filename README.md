@@ -10,7 +10,7 @@ If you have any questions about this exercise contact me at www.linkedin.com/in/
 
 ## Roadmap of future improvements 
 
-I would like to change the styling of the game, mostly the color. I would also like to refractor it so I put all the main components in a seperate file. To make the game a little bit more intresting I would add a time limit for each player with a count down of 3 seconds.
+I would like to change the styling of the game, mostly the color. I would also like to refractor my code so I put all the main components in a seperate file. To make the game a little bit more intresting I would add a time limit for each player with a count down of 3 seconds.
 
 ## License
 
